@@ -19,3 +19,5 @@ ENV TERM xterm
 
 # 解决时区问题
 ENV TZ "Asia/Shanghai"
+
+
